@@ -9,8 +9,8 @@ This project involves the development of an API to manage users and activities i
 
 ## Executing the project locally
 1. Prerequisites: have **JDK 21**, **MySQL** and **Gradle** installed.
-2. Clone github repo
-3. MySQL sSetup
+2. Clone Github repo.
+3. MySQL Setup:
     * Edit the `application.properties` file to update the `user` and `password` fields according to your MySQL installation.
     * Create a new database using: `CREATE DATABASE hackathon;`
 4. Open a terminal in the project directory and run the project:
